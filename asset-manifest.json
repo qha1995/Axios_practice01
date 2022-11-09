@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Axios_practice01/static/css/main.23e678cd.css",
+    "main.js": "/Axios_practice01/static/js/main.6fd00889.js",
+    "index.html": "/Axios_practice01/index.html",
+    "main.23e678cd.css.map": "/Axios_practice01/static/css/main.23e678cd.css.map",
+    "main.6fd00889.js.map": "/Axios_practice01/static/js/main.6fd00889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e678cd.css",
+    "static/js/main.6fd00889.js"
+  ]
+}
